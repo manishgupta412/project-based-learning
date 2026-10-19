@@ -397,6 +397,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
 - [Creating APIs with Python - Comprehensive Course for Beginners (video)](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
 - [Build Your First Streamlit Data App](https://docs.streamlit.io/get-started/tutorials/create-an-app)
+- [Next.js Waitlist with Double Opt-In, Referrals and Launch Email (Mailtrap)](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in)
 
 ### Bots:
 
